@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+* I've been coding in python for over 5 years
+* I've been most recently learning and building in go (and loving it)
+* htmx is cool
 <!--
 **jessieibarra/jessieibarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
