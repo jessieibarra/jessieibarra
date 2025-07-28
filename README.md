@@ -1,8 +1,7 @@
 ### Hi there 👋
-* I've been coding in python for over 5 years
-* I've been most recently learning and building in go (and loving it)
-* htmx is cool
-<!--
+* Python -> Go -> C?? maybe Rust? I need a low level language in my life
+* AI Voice assistants are going to be everywhere
+* Currently tinkering with voice pipelines
 **jessieibarra/jessieibarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
