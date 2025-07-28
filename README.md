@@ -1,9 +1,9 @@
 ### Hi there 👋
-* Python -> Go -> C?? maybe Rust? I need a low level language in my life
+* I enjoy programming in Python and Go
+* I'm hoping to learn C, maybe Rust? I need a low level language in my life
 * I'm currently working on all things Confluent, Kafka, ansible, k8s, cloud networking, terraform
 * AI Voice assistants are going to be everywhere
-* Currently tinkering with voice pipelines
-**jessieibarra/jessieibarra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I'm currently tinkering with voice pipelines
 
  <!---Here are some ideas to get you started:
 
