@@ -1,7 +1,7 @@
 ### Hi there 👋
 * I enjoy programming in Python and Go
 * I'm hoping to learn C, maybe Rust? I need a low level language in my life
-* I'm currently working on all things Confluent, Kafka, ansible, k8s, cloud networking, terraform
+* I'm currently working on all things LangChain, LangSmith, agents, k8s, cloud networking, terraform
 * AI Voice assistants are going to be everywhere
 * I'm currently tinkering with voice pipelines
 
